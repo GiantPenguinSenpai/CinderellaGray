@@ -1,0 +1,17 @@
+{
+  "title": "Uma Musume: Cinderella Gray",
+  "description": "Uma Musume: Cinderella Gray is a spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl. Visit the main series website at: https://umamusume.jp/",
+  "artist": "Kusumi Taiyou",
+  "author": "Sugiura Masafumi",
+  "cover": "https://i.imgur.com/RrMQAQB.jpg",
+  "chapters": {
+    "01": {
+      "title": "Right Here",
+      "volume": "1",
+      "groups": {
+        "umamusume": "/proxy/api/imgur/chapter/ClC1xgD/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
