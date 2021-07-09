@@ -12,6 +12,14 @@
         "umamusume": "/proxy/api/imgur/chapter/ClC1xgD/"
       },
       "last_updated": "1616368746"
+    },
+    "02": {
+      "title": "Get Me in A Race",
+      "volume": "1",
+      "groups": {
+        "umamusume": "/proxy/api/imgur/chapter/2xDOUtK/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
